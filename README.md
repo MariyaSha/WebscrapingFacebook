@@ -1,6 +1,7 @@
 # WebscrapingFacebook
 Download all your personal images + tagged images from Facebook with Selenium
 <br>
+<br>
 <b>Why?</b>
 <br>
 Facebook provides an easy tool to save all your information, including
@@ -15,9 +16,11 @@ My beautiful Facebook scraper will extract both - your personal photos,
 <br>
 as well as the photos you were tagged in.
 <br>
+<br>
 <b>Just please adjust the URL inside the code to match the URL of your
 <br>
 own profile/username ("goldie.may.750" will direct you to my empty account)</b>
+<br>
 <br>
 Another thing to keep in mind - it's not the first time I'm building this scraper,
 <br>
@@ -31,6 +34,7 @@ In case their code changes again, please keep in mind that you might need to adj
 <br>
 one or two lines to accomodate whatever they changed.
 <br>
+<br>
 <b>Good luck!</b>
 <br>
 <br>
@@ -39,6 +43,7 @@ Need some extra info?
 Checkout my article on Web Scraping Instagram with Selenium:
 <br>
 https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-b6b1f27b885
+<br>
 <br>
 Or checkut my Youtube Channel for more useful projects:
 <br>
