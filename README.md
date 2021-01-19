@@ -4,7 +4,7 @@ Download all your personal images + tagged images from Facebook with Selenium
 <b>Click on the image to watch the time lapse on YouTube</b>
 <br>
 <a href="https://youtu.be/2eD8PK4VBCI">
-<img alt="Web Scraping Facebook Time Lapse Thumbnail" src="https://user-images.githubusercontent.com/32107652/105085925-53cf2c80-5a4d-11eb-92d8-03c3254f77dc.jpg" width="550">
+<img alt="Web Scraping Facebook Time Lapse Thumbnail" src="https://user-images.githubusercontent.com/32107652/105085925-53cf2c80-5a4d-11eb-92d8-03c3254f77dc.jpg" width="450">
 </a>
 <br>
 <br>
