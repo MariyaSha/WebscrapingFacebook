@@ -3,7 +3,7 @@ Download all your personal images + tagged images from Facebook with Selenium
 <br>
 <b>Click on the image to watch the time lapse on YouTube</b>
 <br>
-[![WATCH TIME LAPSE VIDEO ON YOUTUBE](https://user-images.githubusercontent.com/32107652/105085925-53cf2c80-5a4d-11eb-92d8-03c3254f77dc.jpg | width=650)](https://youtu.be/2eD8PK4VBCI)
+[![WATCH TIME LAPSE VIDEO ON YOUTUBE](https://user-images.githubusercontent.com/32107652/105085925-53cf2c80-5a4d-11eb-92d8-03c3254f77dc.jpg){:width="650px"}](https://youtu.be/2eD8PK4VBCI)
 <br>
 <br>
 <b>Why?</b>
