@@ -45,6 +45,10 @@ one or two lines to accomodate whatever they changed.
 <b>Good luck!</b>
 <br>
 <br>
+Watch on Youtube:
+<br>
+https://youtu.be/SsXcyoevkV0
+<br>
 Need some extra info?
 <br>
 Checkout my article on Web Scraping Instagram with Selenium:
